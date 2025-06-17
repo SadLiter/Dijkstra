@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-Dijkstra's Algorithm Implementation and Visualization
-
-Usage:
-  python dijkstra.py
-"""
 import heapq
 import networkx as nx
 import matplotlib.pyplot as plt
